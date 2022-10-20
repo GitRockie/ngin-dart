@@ -6,7 +6,7 @@
 
 > 'Poehali!'
 
-    Y.Gagarin
+ 👨🏼‍🚀    Y.Gagarin      👩🏼‍🚀
 
 - [x] #632
 - [ ] https://github.com/GitRockie
