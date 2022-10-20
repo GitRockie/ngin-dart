@@ -1,4 +1,4 @@
-# ngin-dart
+# NGIN_DART_EXERCISES
 
 ## We have ignition! Start the Dart!
 
@@ -9,5 +9,5 @@
  👨🏼‍🚀    Y.Gagarin      👩🏼‍🚀
 
 - [x] #632
-- [ ] https://github.com/GitRockie
+- [https://github.com/GitRockie] 
 - [ ] Add delight to the experience when all tasks are complete :tada: :heart:
